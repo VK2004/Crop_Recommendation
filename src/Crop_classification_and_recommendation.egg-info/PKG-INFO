@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Crop_classification_and_recommendation
+Version: 0.0.0
+Summary: Crop classification and recommendation using xgboost
+Home-page: https://github.com/Rishi-Sutar/Crop_classification_and_recommendation
+Author: Rishi-Sutar
+Author-email: rishisutar183@gmail.com
+Project-URL: Bug Tracker, https://github.com/Rishi-Sutar/Crop_classification_and_recommendation/issues

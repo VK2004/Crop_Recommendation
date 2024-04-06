@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Crop-classification-and-recommendation
+Version: 0.0.0
+Author: Richie
+Author-email: rishisutar183@gmail.com
+Requires-Dist: Flask
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib

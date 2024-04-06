@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/Crop_classification_and_recommendation.egg-info/PKG-INFO
+src/Crop_classification_and_recommendation.egg-info/SOURCES.txt
+src/Crop_classification_and_recommendation.egg-info/dependency_links.txt
+src/Crop_classification_and_recommendation.egg-info/top_level.txt
